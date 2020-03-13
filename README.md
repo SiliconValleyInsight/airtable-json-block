@@ -1,4 +1,5 @@
 # 📊 JSON Import Block for Airtable
+![](https://img.shields.io/badge/typescript-%5E3.7.1--rc-blue) ![](https://img.shields.io/badge/@airtable/blocks-0.0.41-green) ![](https://img.shields.io/badge/@airtable/blocks--cli-0.0.44-green)
 
 Written in TypeScript. Import data from JSON files, and query with [JSONPath](https://jsonpath.com/)
 
