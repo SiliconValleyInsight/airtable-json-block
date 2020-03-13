@@ -36,7 +36,9 @@ Make sure that your npm user has access to Airtable's private packages.
 ## Screenshots
 
 ![JSON Import Block](assets/json-block-screenshot.png)
+
 _Block dashboard screen_
 
 ![JSON Import Block mapping screen](assets/json-mapping-screenshot.png)
+
 _JSON import and mapping screen_
