@@ -5,8 +5,6 @@ Written in TypeScript. Import data from JSON files, and query with [JSONPath](ht
 
 ## Quick Start
 
-Make sure that your npm user has access to Airtable's private packages.
-
 1. Clone this git repo
     ```console
     $ git clone git@github.com:SiliconValleyInsight.com/airtable-json-block.git
