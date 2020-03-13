@@ -1,0 +1,9 @@
+{
+    "extends": "../.eslintrc.typescript.json",
+    "plugins": ["@airtable/blocks"],
+    "rules": {
+        "@airtable/blocks/no-throw-new": "error",
+        "@airtable/blocks/no-node-modules-invariant": "error",
+        "@airtable/blocks/no-error-interpolation": ["error", {"spawnError": 0, "invariant": 1}]
+    }
+}
