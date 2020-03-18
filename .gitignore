@@ -1,15 +1,3 @@
-node_modules
-
-# This file is deprecated for blocks that are migrated to the "standalone CLI".
-# Keeping this here because not all the blocks have migrated yet, and we want to
-# avoid accidental checkins of this file.
-.airtableAPIKey
-
-block_client_wrapper.js
-bundle.js
-.DS_Store
-.vscode
-.idea
-*/build
-.developerCredentials.json
-.airtableblocksrc.json
+/node_modules
+/.airtableblocksrc.json
+/build

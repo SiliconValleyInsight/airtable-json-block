@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "noEmit": true,
+        "target": "es2018",
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "isolatedModules": true,
+        "jsx": "preserve",
+        "strict": true
+    }
+}
