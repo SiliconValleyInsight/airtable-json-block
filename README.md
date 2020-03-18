@@ -5,15 +5,17 @@ Written in TypeScript. Import data from JSON files, and query with [JSONPath](ht
 
 ## Quick Start
 
-### Recommended method: Remix from Github
+### Recommended method: Remix from GitHub
 
 1. On your Airtable base, open the Blocks sidebar on the right, and click **Install a block**
 1. On the modal that opens, click **Build a custom block**
 1. Select **Remix from GitHub** on the **Build a block** modal
+1. Enter `JSON import Block` in the **Block name** field
+1. Enter `https://github.com/SiliconValleyInsight/airtable-json-block` in the **GitHub repository** field
 
     ![Remix from GitHub](assets/json-block-remix-github.png)
 
-1. Follow the instructions on the next screens to run and test the Block locally
+1. Click **Create block**, and follow the instructions on the next screens to run and test the Block locally
 
 ### Manual method (no longer recommended)
 
