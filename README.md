@@ -27,7 +27,7 @@ Written in TypeScript. Import data from JSON files, and query with [JSONPath](ht
 1. Install necessary packages with npm
 
     ```console
-    $ cd airtabe-json-block/json_import
+    $ cd airtable-json-block/json_import
     $ npm install @airtable/blocks-cli
     $ npm install @airtable/blocks
     $ npm install
