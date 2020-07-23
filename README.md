@@ -1,7 +1,11 @@
 # 📊 JSON Import Block for Airtable
 ![](https://img.shields.io/badge/typescript-^3.8.3-blue) ![](https://img.shields.io/badge/@airtable/blocks-0.0.41-green) ![](https://img.shields.io/badge/@airtable/blocks--cli-0.0.44-green)
 
-Written in TypeScript. Import data from JSON files, and query with [JSONPath](https://jsonpath.com/)
+Written in TypeScript. Import data from JSON files, and query with [JSONPath](https://jsonpath.com/).
+
+Built by the [SVI Team](https://svi.io). Featured on Airtable's [Developers Blocks](https://airtable.com/developers/blocks/examples).
+
+Looking for help with your software project? Email us to chat at [info@siliconvalleyinsight.com](mailto:info@siliconvalleyinsight.com)!
 
 ## Quick Start
 
