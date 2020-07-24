@@ -31,7 +31,7 @@ Looking for help with your software project? Email us to chat at [info@siliconva
 1. Install necessary packages with npm
 
     ```console
-    $ cd airtabe-json-block/json_import
+    $ cd airtable-json-block/json_import
     $ npm install @airtable/blocks-cli
     $ npm install @airtable/blocks
     $ npm install
